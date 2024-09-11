@@ -1,4 +1,5 @@
 # Object detection app using YOLOv8 and Android
+I made the Change About GPU useage In This Repository https://github.com/AarohiSingla/Object-Detection-Android-App
 
 ### Check the video to understand the code: https://youtu.be/dl7rCmvIyiI
 
@@ -24,10 +25,8 @@
 - Build and Run
 ![SAD1K9IGLAXS_jpg rf d634b3e06bebf7dd7d15b3e699e359d2](https://github.com/AarohiSingla/Object-Detection-Android-App/assets/60029146/08610d96-54e5-4425-85f9-c92e14f87a14)
 
-
-
-
 ## Credits
+https://github.com/AarohiSingla/Object-Detection-Android-App
 
 This project includes the andrroid app code from the following repository:
 
