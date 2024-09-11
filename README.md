@@ -3,8 +3,7 @@
 ### Check the video to understand the code: https://youtu.be/dl7rCmvIyiI
 
 ## Step 1 (Train and export Object detection model):
-- git clone https://github.com/AarohiSingla/Object-Detection-Android-App.git
-  
+- git clone https://github.com/bellkjtt/Yolov8-with-Android.git
 - Train yolov8 model on custom dataset and export it in .tflite format. (Check train_export_yolov8_model.ipynb )
 
 ## Step 2 (Object detection android app setup):
